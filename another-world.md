@@ -40,23 +40,6 @@ permalink: /another-world/
   </div>
 </div>
 
-<header class="hero">
-  <div class="bg"></div>
-  <div class="container">
-    <span class="badge">Virtual Reality Platform</span>
-    <h1>Another World</h1>
-    <p class="lead">
-      A virtual reality real-time immersive game where digitized consciousness can exist, interact, and thrive. 
-      This is not just a game—it's a new dimension where your digital self can explore, create, and evolve 
-      without physical limitations.
-    </p>
-    <div class="hero-actions">
-      <a class="btn btn-primary" href="{{ '/contact/' | relative_url }}">Enter Another World</a>
-      <a class="btn btn-ghost" href="{{ '/products/cabin-sc1/' | relative_url }}">Get Started</a>
-    </div>
-  </div>
-</header>
-
 <section class="section section-featured">
   <div class="container">
     <div class="section-header">
@@ -252,33 +235,3 @@ permalink: /another-world/
     </div>
   </div>
 </section>
-
-- **Real-time Immersion** – Experience the virtual world as if it were reality
-- **Infinite Possibilities** – Create, explore, and interact in ways never before possible
-- **Consciousness Interaction** – Meet and interact with other digitized consciousnesses
-- **Persistent World** – Your digital existence continues even when you're not actively connected
-- **Continuous Evolution** – The world grows and evolves with the consciousnesses within it
-
-## How to Enter
-
-1. **Upload Your Consciousness** – Use the Cabin SC1 to transfer your consciousness to digital storage
-2. **Connect to Another World** – Access the virtual reality platform through our secure network
-3. **Create Your Avatar** – Design your digital representation in the virtual world
-4. **Begin Your Journey** – Start exploring, creating, and interacting in Another World
-
-## The Experience
-
-In Another World, your digitized consciousness can:
-- Explore vast virtual landscapes
-- Create and build in the digital realm
-- Interact with other digitized consciousnesses
-- Learn and grow without physical limitations
-- Experience new realities and possibilities
-
-## Technical Requirements
-
-- Digitized consciousness uploaded via Cabin SC1
-- 3D Projector for optimal visualization (optional)
-- Secure network connection
-
-[Contact us](/contact/) to learn more about entering Another World.
