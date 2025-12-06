@@ -8,7 +8,7 @@ permalink: /another-world/
   .anotherworld-hero-bg {
     background: url("{{ '/images/anotherworld/anotherworldmain.png' | relative_url }}") center center/cover no-repeat;
     position: relative;
-    min-height: 520px;
+    min-height: 720px;
     width: 100%;
     padding: 8rem 0 6rem;
     display: flex;
@@ -45,11 +45,9 @@ permalink: /another-world/
 <div class="anotherworld-hero-bg">
   <div class="container">
     <span class="badge">Virtual Reality Platform</span>
-    <h1 style="color: #fff;">Another World</h1>
+    <h1 style="color: #fff; font-size: 3.2rem; line-height: 1.1;">Another World</h1>
     <p class="lead" style="color: #eee;">
-      A virtual reality real-time immersive game where digitized consciousness can exist, interact, and thrive. 
-      This is not just a game—it's a new dimension where your digital self can explore, create, and evolve 
-      without physical limitations.
+          This is not just a game—it's a new dimension where your digital self can explore, create, and evolve without physical limitations.
     </p>
     <div class="hero-actions">
       <a class="btn btn-primary" href="{{ '/contact/' | relative_url }}">Enter Another World</a>
