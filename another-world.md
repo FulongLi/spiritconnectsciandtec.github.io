@@ -2,6 +2,7 @@
 layout: default
 title: Another World
 description: A virtual reality real-time immersive game for digitized consciousness.
+permalink: /another-world/
 ---
 
 # Another World

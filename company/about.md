@@ -2,6 +2,7 @@
 layout: default
 title: About Us
 description: Learn about Spirit Connect Science and Technology and our mission.
+permalink: /company/about/
 ---
 
 # About Us
