@@ -4,6 +4,41 @@ title: Another World
 description: A virtual reality real-time immersive game for digitized consciousness.
 permalink: /another-world/
 ---
+<style>
+  .anotherworld-hero-bg {
+    background: url("{{ '/images/anotherworld/anotherworldmain.png' | relative_url }}") center center/cover no-repeat;
+    position: relative;
+    min-height: 520px;
+    width: 100%;
+  }
+  .anotherworld-hero-bg .container {
+    position: relative;
+    z-index: 2;
+  }
+  .anotherworld-hero-bg::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: rgba(16, 26, 40, 0.60); /* dark overlay for readability */
+    z-index: 1;
+    pointer-events: none;
+  }
+</style>
+<div class="anotherworld-hero-bg">
+  <div class="container">
+    <span class="badge">Virtual Reality Platform</span>
+    <h1 style="color: #fff;">Another World</h1>
+    <p class="lead" style="color: #eee;">
+      A virtual reality real-time immersive game where digitized consciousness can exist, interact, and thrive. 
+      This is not just a game—it's a new dimension where your digital self can explore, create, and evolve 
+      without physical limitations.
+    </p>
+    <div class="hero-actions">
+      <a class="btn btn-primary" href="{{ '/contact/' | relative_url }}">Enter Another World</a>
+      <a class="btn btn-ghost" href="{{ '/products/cabin-sc1/' | relative_url }}">Get Started</a>
+    </div>
+  </div>
+</div>
 
 <header class="hero">
   <div class="bg"></div>
