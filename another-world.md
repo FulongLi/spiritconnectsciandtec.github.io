@@ -10,10 +10,14 @@ permalink: /another-world/
     position: relative;
     min-height: 520px;
     width: 100%;
+    padding: 8rem 0 6rem;
+    display: flex;
+    align-items: center;
   }
   .anotherworld-hero-bg .container {
     position: relative;
     z-index: 2;
+    text-align: center;
   }
   .anotherworld-hero-bg::after {
     content: '';
@@ -22,6 +26,20 @@ permalink: /another-world/
     background: rgba(16, 26, 40, 0.60); /* dark overlay for readability */
     z-index: 1;
     pointer-events: none;
+  }
+  .anotherworld-hero-bg .badge {
+    background: rgba(24, 179, 198, 0.2);
+    border: 1px solid rgba(24, 179, 198, 0.4);
+    color: var(--brand);
+  }
+  .anotherworld-hero-bg .btn-ghost {
+    background: rgba(255, 255, 255, 0.1);
+    color: #fff;
+    border-color: rgba(255, 255, 255, 0.3);
+  }
+  .anotherworld-hero-bg .btn-ghost:hover {
+    background: rgba(255, 255, 255, 0.2);
+    color: #fff;
   }
 </style>
 <div class="anotherworld-hero-bg">
