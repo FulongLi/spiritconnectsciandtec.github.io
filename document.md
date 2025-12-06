@@ -8,6 +8,7 @@ permalink: /company/document/
 <header class="hero">
   <div class="bg"></div>
   <div class="container">
+    <span class="badge">Archives</span>
     <h1>Document & Archives</h1>
     <p class="lead">
       Key milestones and announcements from <strong>Spirit Connect Science and Technology</strong>.

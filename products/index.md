@@ -2,6 +2,7 @@
 layout: default
 title: Products
 description: Hardware solutions for consciousness transfer and memory upload.
+permalink: /products/
 ---
 
 <header class="hero" style="padding: 4rem 0 3rem;">
