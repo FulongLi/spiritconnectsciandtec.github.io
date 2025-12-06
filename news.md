@@ -8,6 +8,7 @@ description: Latest updates and announcements from Spirit Connect Science and Te
 <header class="hero">
   <div class="bg"></div>
   <div class="container">
+    <span class="badge">Latest Updates</span>
     <h1>News & Updates</h1>
     <p class="lead">
       Key milestones and announcements from <strong>Spirit Connect Science and Technology</strong>.
