@@ -41,7 +41,47 @@ permalink: /another-world/
     background: rgba(255, 255, 255, 0.2);
     color: #fff;
   }
+  .background-music {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+    background: rgba(10, 13, 46, 0.9);
+    border-radius: 12px;
+    padding: 1rem;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(10px);
+  }
+  .background-music audio {
+    width: 250px;
+    height: 40px;
+  }
+  .background-music-label {
+    color: #fff;
+    font-size: 0.85rem;
+    margin-bottom: 0.5rem;
+    display: block;
+    font-weight: 600;
+  }
+  @media (max-width: 768px) {
+    .background-music {
+      bottom: 10px;
+      right: 10px;
+      padding: 0.75rem;
+    }
+    .background-music audio {
+      width: 200px;
+    }
+  }
 </style>
+<div class="background-music">
+  <span class="background-music-label">🎵 Background Music</span>
+  <audio id="backgroundMusic" controls autoplay loop>
+    <source src="{{ '/assets/background-music.mp3' | relative_url }}" type="audio/mpeg">
+    <source src="{{ '/assets/background-music.ogg' | relative_url }}" type="audio/ogg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
 <div class="anotherworld-hero-bg">
   <div class="container">
     <span class="badge" style="margin-bottom: 2.2rem; display: inline-block;">Virtual Reality Platform</span>
