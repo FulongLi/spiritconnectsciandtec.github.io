@@ -8,7 +8,7 @@ description: Copy and update human consciousness and memory to the digital world
   <div class="bg"></div>
   <div class="container">
     <span class="badge">Consciousness Digitalization</span>
-    <h1>Welcome to Spirit Connect Science and Technology</h1>
+    <h1>Spirit Connect Science and Technology</h1>
     <p class="lead">
       We are pioneering the future of human consciousness preservation. Our mission is to copy and update human consciousness 
       and memory to the digital world, creating a bridge between the physical and digital realms. Experience immortality through 
