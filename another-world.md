@@ -84,8 +84,7 @@ permalink: /another-world/
 </div>
 <div class="anotherworld-hero-bg">
   <div class="container">
-    <span class="badge" style="margin-bottom: 2.2rem; display: inline-block;">Virtual Reality Platform</span>
-    <h1 style="color: #fff; font-size: 3.2rem; line-height: 1.1; margin-top: 0; margin-bottom: 2.2rem;">Another World</h1>
+    <h1 style="color: #fff; font-size: 3.2rem; line-height: 1.1; margin-top: 0; margin-bottom: 2.2rem;">Welcome to Another World</h1>
     <div style="display: flex; justify-content: center; align-items: center; width: 100%; margin-bottom: 2.4rem;">
       <p class="lead" style="color: #eee; text-align: center; margin: 0;">
         This is not just a game—it's a new dimension where your digital self can explore, create, and evolve without physical limitations.
