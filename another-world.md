@@ -46,9 +46,11 @@ permalink: /another-world/
   <div class="container">
     <span class="badge">Virtual Reality Platform</span>
     <h1 style="color: #fff; font-size: 3.2rem; line-height: 1.1;">Another World</h1>
-    <p class="lead" style="color: #eee;">
-          This is not just a game—it's a new dimension where your digital self can explore, create, and evolve without physical limitations.
-    </p>
+    <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+      <p class="lead" style="color: #eee; text-align: center; margin: 0;">
+        This is not just a game—it's a new dimension where your digital self can explore, create, and evolve without physical limitations.
+      </p>
+    </div>
     <div class="hero-actions">
       <a class="btn btn-primary" href="{{ '/contact/' | relative_url }}">Enter Another World</a>
       <a class="btn btn-ghost" href="{{ '/products/cabin-sc1/' | relative_url }}">Get Started</a>
