@@ -2,6 +2,7 @@
 layout: default
 title: 3D Projector
 description: State-of-the-art projection technology for visualizing digitized consciousness.
+permalink: /products/3d-projector/
 ---
 
 # 3D Projector

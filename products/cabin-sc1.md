@@ -2,6 +2,7 @@
 layout: default
 title: Cabin SC1
 description: Advanced consciousness transfer system for memory upload and digital preservation.
+permalink: /products/cabin-sc1/
 ---
 
 <header class="hero" style="padding: 4rem 0 3rem;">
