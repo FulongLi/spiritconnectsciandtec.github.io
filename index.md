@@ -105,7 +105,7 @@ description: Copy and update human consciousness and memory to the digital world
       </div>
       <div class="case-study-visual">
         <div class="visual-placeholder">
-          <img src="{{ '/images/anotherworld/ao.png' | relative_url }}" alt="Another World" style="max-width: 100%; height: auto; border-radius: var(--radius);">
+          <img src="{{ '/images/anotherworld/ao.PNG' | relative_url }}" alt="Another World" style="max-width: 100%; height: auto; border-radius: var(--radius);">
         </div>
       </div>
     </div>
