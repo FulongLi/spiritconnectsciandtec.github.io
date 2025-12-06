@@ -30,7 +30,7 @@ description: Meet the team behind Spirit Connect Science and Technology.
           digital technology.
         </p>
         <p style="margin-top: 1rem;">
-          📍 Cardiff, United Kingdom<br>
+          📍 The Sky City, North Pacific Ocean<br>
           🔗 <a href="mailto:fulong.li@ieee.org">fulong.li@ieee.org</a> ·
           <a href="https://www.linkedin.com/in/fulong-li-6bb443127" target="_blank">LinkedIn</a>
         </p>

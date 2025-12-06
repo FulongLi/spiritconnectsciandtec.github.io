@@ -30,7 +30,7 @@ description: Get in touch with Spirit Connect Science and Technology.
       <div class="card card-featured">
         <div class="card-icon">📍</div>
         <h3>Location</h3>
-        <p>Cardiff, United Kingdom</p>
+        <p>The Sky City, North Pacific Ocean</p>
       </div>
 
       <div class="card card-featured">

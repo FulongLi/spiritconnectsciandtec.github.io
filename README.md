@@ -64,4 +64,4 @@ This website is built with:
 
 ---
 
-**Cardiff, United Kingdom** · [info@spiritconnect.co.uk](mailto:info@spiritconnect.co.uk)
+**The Sky City, North Pacific Ocean** · [info@spiritconnect.co.uk](mailto:info@spiritconnect.co.uk)
