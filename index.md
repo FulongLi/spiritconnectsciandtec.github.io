@@ -117,7 +117,7 @@ description: Copy and update human consciousness and memory to the digital world
     <div class="solution-content">
       <div class="solution-visual">
         <div class="visual-placeholder">
-          <img src="{{ '/images/anotherworld/humanexsisitence.png' | relative_url }}" alt="Human Existence" style="max-width: 100%; height: auto; border-radius: var(--radius);">
+          <img src="{{ '/images/anotherworld/humanexistence.png' | relative_url }}" alt="Human Existence" style="max-width: 100%; height: auto; border-radius: var(--radius);">
         </div>
       </div>
       <div class="solution-text">
