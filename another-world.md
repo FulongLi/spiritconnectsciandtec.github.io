@@ -52,8 +52,8 @@ permalink: /another-world/
       </p>
     </div>
     <div class="hero-actions" style="margin-bottom:2.2rem;">
-      <a class="btn btn-primary" href="{{ '/contact/' | relative_url }}">Enter Another World</a>
-      <a class="btn btn-ghost" href="{{ '/products/cabin-sc1/' | relative_url }}">Get Started</a>
+      <a class="btn btn-primary" href="{{ '/anotherworld/zone/' | relative_url }}">Enter Another World</a>
+      <a class="btn btn-ghost" href="{{ '/anotherworld/avatar/' | relative_url }}">Get Started</a>
     </div>
   </div>
 </div>
