@@ -21,12 +21,12 @@ permalink: /company/document/
 
     <div class="card" style="margin-bottom: 1.5rem; display: flex; align-items: flex-start; gap: 2rem; flex-wrap: wrap;">
       <div style="flex:1 1 320px;min-width:240px;max-width:420px;">
-        <img src="/images/document/DM.pngdm.png" alt="The Dark Side of the Moon" style="width:100%;max-width:380px;display:block;margin-bottom:1rem;border-radius:var(--radius);box-shadow:0 2px 16px rgba(0,0,0,0.08);">
+        <img src="{{ '/images/document/DM.png' | relative_url }}" alt="The Dark Side of the Moon Book Cover" style="width:100%;max-width:380px;display:block;margin-bottom:1rem;border-radius:var(--radius);box-shadow:0 2px 16px rgba(0,0,0,0.08);">
       </div>
       <div style="flex:3 1 320px;min-width:220px;">
-        <h3 style="margin-top:0;">Digital Mind (Book)</h3>
+        <h3 style="margin-top:0;">The Dark Side of the Moon</h3>
         <p>
-          <strong>Digital Mind</strong> (<em>DM.png</em>) is our foundational concept book exploring the philosophy, science, and technology of consciousness preservation and digital existence. 
+          <strong>The Dark Side of the Moon</strong> is our foundational concept book exploring the philosophy, science, and technology of consciousness preservation and digital existence. 
           Dive into the vision that guides Spirit Connect Science and Technology, including our approach to memory upload and virtual self-continuity.
         </p>
       </div>
