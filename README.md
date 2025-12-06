@@ -1,89 +1,23 @@
-# Chain Website
+# Spirit Connect – Power Labs
 
-A modern, responsive website inspired by chain.com - The Bridge Between your Business and Web3.
+> **AI-Assisted Power Electronics Converter Design Automation**
 
-## Features
+Welcome to the public website repository of **Spirit Connect – Power Labs**.  
+We accelerate power electronics development using artificial intelligence: from topology exploration to thermal analysis and control synthesis.
 
-- 🎨 Modern, clean design with smooth animations
-- 📱 Fully responsive layout for all devices
-- ⚡ Fast and lightweight (vanilla HTML, CSS, and JavaScript)
-- 🎯 Smooth scrolling navigation
-- ✨ Interactive elements and hover effects
-- 🌈 Beautiful gradient backgrounds
+🌐 Live site: [https://fulongli.github.io/spiritconnectpowerlabs.github.io/](https://fulongli.github.io/spiritconnectpowerlabs.github.io/)
 
-## Structure
+---
 
-- `index.html` - Main HTML structure
-- `styles.css` - All styling and responsive design
-- `script.js` - Interactive features and animations
+## 🚀 What We Do
 
-## Sections
+Spirit Connect – Power Labs builds **automation tools and workflows** that help engineers design high-performance power converters faster and with better trade-offs.
 
-1. **Hero Section** - Eye-catching introduction with animated background
-2. **Products Section** - Showcase of enterprise products (Sequence, Chain Cloud, Chain NFTs, Chain Prime)
-3. **Partnership Section** - Latest partnership project highlight
-4. **Features Section** - Key features and benefits
-5. **Footer** - Company links and information
+- **AI-driven topology exploration** – LLC, DAB, multi-level, interleaved buck/boost, and more  
+- **Magnetics and semiconductor selection** – WBG devices, core sizing, and winding optimization  
+- **Loss & thermal modeling** – efficiency maps, safe operating areas, temperature predictions  
+- **Control synthesis** – current/voltage loops, soft-switching zones, phase-shift and TPWM  
+- **Multi-objective optimization** – efficiency vs. density vs. cost vs. EMI headroom  
+- **Validation planning** – HIL/SIL hooks, automated test scripts, and repeatable experiments
 
-## Getting Started
-
-### Local Development
-
-Simply open `index.html` in your web browser to view the website.
-
-For local development, you can use a simple HTTP server:
-
-```bash
-# Using Python
-python -m http.server 8000
-
-# Using Node.js
-npx serve
-
-# Using PHP
-php -S localhost:8000
-```
-
-Then navigate to `http://localhost:8000` in your browser.
-
-### GitHub Pages Deployment
-
-This repository is configured for GitHub Pages. To deploy:
-
-1. **Push your code to GitHub:**
-   ```bash
-   git add .
-   git commit -m "Initial commit"
-   git push origin main
-   ```
-
-2. **Enable GitHub Pages:**
-   - Go to your repository settings on GitHub
-   - Navigate to "Pages" in the left sidebar
-   - Under "Source", select the `main` branch
-   - Click "Save"
-
-3. **Your site will be live at:**
-   - `https://spiritconnectsciandtec.github.io/`
-
-Since your repository is named `spiritconnectsciandtec.github.io`, GitHub Pages will automatically serve your site from the root directory. The `.nojekyll` file ensures that GitHub Pages serves your files directly without Jekyll processing.
-
-**Note:** It may take a few minutes for the site to be available after enabling GitHub Pages.
-
-## Technologies Used
-
-- HTML5
-- CSS3 (with CSS Grid and Flexbox)
-- Vanilla JavaScript (ES6+)
-- Google Fonts (Inter)
-
-## Browser Support
-
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-
-## License
-
-This project is open source and available for use.
+---
