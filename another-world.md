@@ -65,10 +65,11 @@ permalink: /another-world/
     overflow: hidden;
   }
   .carousel-slide img {
-    width: 100%;
-    height: 100%;
+    width: 85%;
+    height: 85%;
     object-fit: contain;
     display: block;
+    margin: 0 auto;
     border-radius: var(--radius);
     box-shadow: var(--shadow);
   }
