@@ -43,14 +43,14 @@ permalink: /another-world/
   }
   .photo-carousel {
     position: relative;
-    max-width: 70%;
+    width: 100%;
     margin: 0 auto;
     overflow: hidden;
     border-radius: var(--radius);
-    aspect-ratio: 16 / 9;
+    min-height: 350px;
     border: 2px dashed var(--border);
     background: #fff;
-    padding: 0.5rem;
+    padding: 0;
   }
   .carousel-track {
     display: flex;
@@ -304,7 +304,7 @@ permalink: /another-world/
           </video>
         </div>
         <div style="margin-top: 2rem;">
-          <h3 style="text-align: center; margin-bottom: 1.5rem; color: var(--fg);">Photo Album</h3>
+          <h3 style="text-align: center; margin-bottom: 1.5rem; color: var(--fg);">Dragons</h3>
           <div class="photo-carousel">
             <button class="carousel-nav prev" onclick="slideCarousel('prev')" aria-label="Previous">‹</button>
             <div class="carousel-track" id="carouselTrack">
