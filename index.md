@@ -37,19 +37,28 @@ description: Copy and update human consciousness and memory to the digital world
     </div>
     <div class="grid grid-featured">
       <div class="card card-featured">
-        <div class="card-icon">🧠</div>
+        <video autoplay muted loop playsinline style="width: 100%; max-width: 200px; height: auto; border-radius: var(--radius); margin-bottom: 1rem;">
+          <source src="{{ '/images/general/h1.mp4' | relative_url }}" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
         <h3>Cabin SC1</h3>
         <p>Advanced consciousness transfer system designed for seamless memory upload and digital preservation of human consciousness.</p>
         <a href="{{ '/products/cabin-sc1/' | relative_url }}" class="card-link">Learn More →</a>
       </div>
       <div class="card card-featured">
-        <div class="card-icon">📽️</div>
+        <video autoplay muted loop playsinline style="width: 100%; max-width: 200px; height: auto; border-radius: var(--radius); margin-bottom: 1rem;">
+          <source src="{{ '/images/general/h2.mp4' | relative_url }}" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
         <h3>3D Projector</h3>
         <p>State-of-the-art projection technology that visualizes and interacts with digitized consciousness in immersive 3D environments.</p>
         <a href="{{ '/products/3d-projector/' | relative_url }}" class="card-link">Learn More →</a>
       </div>
       <div class="card card-featured">
-        <div class="card-icon">🌐</div>
+        <video autoplay muted loop playsinline style="width: 100%; max-width: 200px; height: auto; border-radius: var(--radius); margin-bottom: 1rem;">
+          <source src="{{ '/images/general/h3.mp4' | relative_url }}" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
         <h3>Another World</h3>
         <p>A virtual reality real-time immersive game where digitized consciousness can exist, interact, and thrive in a digital universe.</p>
         <a href="{{ '/another-world/' | relative_url }}" class="card-link">Explore →</a>
