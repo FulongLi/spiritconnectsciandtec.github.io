@@ -225,6 +225,23 @@ permalink: /another-world/
             Your browser does not support the video tag.
           </video>
         </div>
+        <div style="margin-top: 2rem;">
+          <h3 style="text-align: center; margin-bottom: 1.5rem; color: var(--fg);">Photo Album</h3>
+          <div class="grid" style="grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem;">
+            <div style="overflow: hidden; border-radius: var(--radius); box-shadow: var(--shadow);">
+              <img src="{{ '/images/anotherworld/long_nature.png' | relative_url }}" alt="Long Nature" style="width: 100%; height: auto; display: block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+            </div>
+            <div style="overflow: hidden; border-radius: var(--radius); box-shadow: var(--shadow);">
+              <img src="{{ '/images/anotherworld/long_sea.png' | relative_url }}" alt="Long Sea" style="width: 100%; height: auto; display: block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+            </div>
+            <div style="overflow: hidden; border-radius: var(--radius); box-shadow: var(--shadow);">
+              <img src="{{ '/images/anotherworld/dragons/long_nature.png' | relative_url }}" alt="Dragon Nature" style="width: 100%; height: auto; display: block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+            </div>
+            <div style="overflow: hidden; border-radius: var(--radius); box-shadow: var(--shadow);">
+              <img src="{{ '/images/anotherworld/dragons/long_sea.png' | relative_url }}" alt="Dragon Sea" style="width: 100%; height: auto; display: block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+            </div>
+          </div>
+        </div>
       </div>
       <div class="solution-text">
         <h2>The Experience</h2>
