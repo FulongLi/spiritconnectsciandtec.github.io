@@ -5,8 +5,11 @@ description: Copy and update human consciousness and memory to the digital world
 ---
 
 <header class="hero">
-  <div class="bg"></div>
-  <div class="container">
+  <div
+    class="bg"
+    style="background-image: url('{{ '/images/general/sc.png' | relative_url }}'); background-size: cover; background-position: center; position: absolute; inset: 0; z-index: 0; opacity: 0.22;">
+  </div>
+  <div class="container" style="position: relative; z-index: 1;">
     <span class="badge">Consciousness Digitalization</span>
     <h1>Spirit Connect Science and Technology</h1>
     <p class="lead">
@@ -127,6 +130,34 @@ description: Copy and update human consciousness and memory to the digital world
           Our revolutionary technology allows you to transcend the boundaries of time and space, preserving your essence 
           in the digital realm where you can continue to grow, learn, and exist indefinitely.
         </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <h2>Learn More</h2>
+    <p class="lead">Explore our comprehensive knowledge base to understand consciousness transfer, digital existence, and our revolutionary technologies.</p>
+    <div class="grid" style="margin-top: 2rem;">
+      <div class="card">
+        <div class="card-icon">📚</div>
+        <h3>Spicopedia</h3>
+        <p>Comprehensive encyclopedia of concepts, terms, and knowledge related to consciousness transfer and digital existence. 
+        Discover detailed information about our technology and philosophy.</p>
+        <a href="{{ '/spicopedia/' | relative_url }}" class="card-link">Explore Spicopedia →</a>
+      </div>
+      <div class="card">
+        <div class="card-icon">📄</div>
+        <h3>Document & Archives</h3>
+        <p>Access our foundational documents and archives, including "The Dark Side of the Moon" concept book and other key materials.</p>
+        <a href="{{ '/company/document/' | relative_url }}" class="card-link">View Documents →</a>
+      </div>
+      <div class="card">
+        <div class="card-icon">📰</div>
+        <h3>News & Updates</h3>
+        <p>Stay informed about the latest milestones, announcements, and developments from Spirit Connect Science and Technology.</p>
+        <a href="{{ '/company/news/' | relative_url }}" class="card-link">Read News →</a>
       </div>
     </div>
   </div>
