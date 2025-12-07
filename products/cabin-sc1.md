@@ -166,7 +166,10 @@ permalink: /products/cabin-sc1/
       </div>
       <div class="case-study-visual">
         <div class="visual-placeholder">
-          <div class="visual-icon">🚀</div>
+          <video autoplay muted loop playsinline style="max-width: 100%; height: auto; border-radius: var(--radius);">
+            <source src="{{ '/images/general/dt.mp4' | relative_url }}" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
         </div>
       </div>
     </div>
