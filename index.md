@@ -11,9 +11,9 @@ description: Copy and update human consciousness and memory to the digital world
   </video>
   <div style="position: absolute; inset: 0; background: rgba(16, 26, 40, 0.40); z-index: 0; pointer-events: none;"></div>
   <div class="container" style="position: relative; z-index: 1;">
-    <span class="badge" style="color: #fff;">Consciousness Digitalization</span>
-    <h1 style="color: #fff;">Spirit Connect Science and Technology</h1>
-    <p class="lead" style="color: #fff;">
+    <span class="badge" style="color: #0F8392;">Consciousness Digitalization</span>
+    <h1 style="color: #0F8392;">Spirit Connect Science and Technology</h1>
+    <p class="lead" style="color: #0F8392;">
       We are pioneering the future of human consciousness preservation. Our mission is to copy and update human consciousness 
       and memory to the digital world, creating a bridge between the physical and digital realms. Experience immortality through 
       technology that captures the essence of who you are.
