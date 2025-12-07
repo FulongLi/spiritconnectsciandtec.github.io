@@ -220,7 +220,7 @@ permalink: /another-world/
     <div class="solution-content">
       <div class="solution-visual">
         <div class="visual-placeholder" style="padding: 0; overflow: hidden;">
-          <video autoplay muted loop playsinline style="width: auto; height: 100%; object-fit: cover; border-radius: var(--radius); transform: rotate(270deg);">
+          <video autoplay muted loop playsinline style="width: 50%; height: 50%; object-fit: cover; border-radius: var(--radius); transform: rotate(270deg);">
             <source src="{{ '/assets/bgv.webm' | relative_url }}" type="video/webm">
             Your browser does not support the video tag.
           </video>
