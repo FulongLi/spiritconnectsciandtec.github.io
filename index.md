@@ -19,7 +19,7 @@ description: Copy and update human consciousness and memory to the digital world
     min-height: 100%;
     width: auto;
     height: auto;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%) rotate(270deg);
     z-index: 0;
     object-fit: cover;
   }
