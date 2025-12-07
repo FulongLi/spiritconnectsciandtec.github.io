@@ -219,8 +219,11 @@ permalink: /another-world/
   <div class="container">
     <div class="solution-content">
       <div class="solution-visual">
-        <div class="visual-placeholder">
-          <div class="visual-icon">🎮</div>
+        <div class="visual-placeholder" style="padding: 0; overflow: hidden;">
+          <video autoplay muted loop playsinline style="width: 100%; height: 100%; object-fit: cover; border-radius: var(--radius);">
+            <source src="{{ '/assets/bgv.webm' | relative_url }}" type="video/webm">
+            Your browser does not support the video tag.
+          </video>
         </div>
       </div>
       <div class="solution-text">

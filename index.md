@@ -3,45 +3,9 @@ layout: default
 title: Home
 description: Copy and update human consciousness and memory to the digital world.
 ---
-<style>
-  .hero-video-bg {
-    position: relative;
-    overflow: hidden;
-    min-height: 800px;
-    display: flex;
-    align-items: center;
-  }
-  .hero-video-bg video {
-    position: absolute;
-    top: 100%;
-    left: 100%;
-    min-width: 100%;
-    min-height: 100%;
-    width: auto;
-    height: auto;
-    transform: translate(-50%, -50%) rotate(270deg);
-    z-index: 0;
-    object-fit: cover;
-  }
-  .hero-video-bg::after {
-    content: '';
-    position: absolute;
-    inset: 0;
-    background: rgba(10, 13, 46, 0.65);
-    z-index: 1;
-    pointer-events: none;
-  }
-  .hero-video-bg .container {
-    position: relative;
-    z-index: 2;
-    text-align: center;
-  }
-</style>
-<header class="hero hero-video-bg">
-  <video autoplay muted loop playsinline>
-    <source src="{{ '/assets/bgv.webm' | relative_url }}" type="video/webm">
-    Your browser does not support the video tag.
-  </video>
+
+<header class="hero">
+  <div class="bg"></div>
   <div class="container">
     <span class="badge">Consciousness Digitalization</span>
     <h1>Spirit Connect Science and Technology</h1>
