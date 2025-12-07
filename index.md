@@ -4,11 +4,12 @@ title: Home
 description: Copy and update human consciousness and memory to the digital world.
 ---
 
-<header class="hero" style="min-height: 720px;">
-  <div
-    class="bg"
-    style="background-image: url('{{ '/images/general/sc.png' | relative_url }}') !important; background-size: cover !important; background-position: center !important; position: absolute !important; inset: 0 !important; z-index: -1 !important; opacity: 0.6 !important; height: 100% !important; width: 100% !important; filter: none !important; animation: none !important;">
-  </div>
+<header class="hero" style="min-height: 720px; position: relative; overflow: hidden;">
+  <video autoplay muted loop playsinline style="position: absolute; top: 50%; left: 50%; min-width: 100%; min-height: 100%; width: auto; height: auto; transform: translate(-50%, -50%); z-index: -1; opacity: 0.6; object-fit: cover;">
+    <source src="{{ '/images/general/sc.mp4' | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <div style="position: absolute; inset: 0; background: rgba(16, 26, 40, 0.40); z-index: 0; pointer-events: none;"></div>
   <div class="container" style="position: relative; z-index: 1;">
     <span class="badge">Consciousness Digitalization</span>
     <h1>Spirit Connect Science and Technology</h1>
@@ -120,7 +121,10 @@ description: Copy and update human consciousness and memory to the digital world
     <div class="solution-content">
       <div class="solution-visual">
         <div class="visual-placeholder">
-          <img src="{{ '/images/anotherworld/humanexistence.png' | relative_url }}" alt="Human Existence" style="max-width: 60%; height: auto; border-radius: var(--radius);">
+          <video autoplay muted loop playsinline style="max-width: 60%; height: auto; border-radius: var(--radius);">
+            <source src="{{ '/images/general/he.mp4' | relative_url }}" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
         </div>
       </div>
       <div class="solution-text">
