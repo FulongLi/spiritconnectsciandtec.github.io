@@ -7,7 +7,7 @@ description: Copy and update human consciousness and memory to the digital world
 <header class="hero" style="min-height: 720px;">
   <div
     class="bg"
-    style="background-image: url('{{ '/images/general/sc.png' | relative_url }}') !important; background-size: cover !important; background-position: center !important; position: absolute !important; inset: 0 !important; z-index: -1 !important; opacity: 0.4 !important; height: 100% !important; width: 100% !important; filter: none !important; animation: none !important;">
+    style="background-image: url('{{ '/images/general/sc.png' | relative_url }}') !important; background-size: cover !important; background-position: center !important; position: absolute !important; inset: 0 !important; z-index: -1 !important; opacity: 0.6 !important; height: 100% !important; width: 100% !important; filter: none !important; animation: none !important;">
   </div>
   <div class="container" style="position: relative; z-index: 1;">
     <span class="badge">Consciousness Digitalization</span>
