@@ -39,8 +39,7 @@ description: Copy and update human consciousness and memory to the digital world
 </style>
 <header class="hero hero-video-bg">
   <video autoplay muted loop playsinline>
-    <source src="{{ '/assets/background-video.mp4' | relative_url }}" type="video/mp4">
-    <source src="{{ '/assets/background-video.webm' | relative_url }}" type="video/webm">
+    <source src="{{ '/assets/bgv.webm' | relative_url }}" type="video/webm">
     Your browser does not support the video tag.
   </video>
   <div class="container">
