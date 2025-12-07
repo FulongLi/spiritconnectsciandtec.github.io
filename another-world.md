@@ -48,6 +48,9 @@ permalink: /another-world/
     overflow: hidden;
     border-radius: var(--radius);
     aspect-ratio: 16 / 9;
+    border: 2px dashed var(--border);
+    background: #fff;
+    padding: 0.5rem;
   }
   .carousel-track {
     display: flex;
