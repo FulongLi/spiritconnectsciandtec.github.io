@@ -47,24 +47,24 @@ permalink: /another-world/
     margin: 0 auto;
     overflow: hidden;
     border-radius: var(--radius);
+    aspect-ratio: 16 / 9;
   }
   .carousel-track {
     display: flex;
     transition: transform 0.5s ease-in-out;
-    gap: 1.5rem;
+    height: 100%;
   }
   .carousel-slide {
     min-width: 100%;
     flex-shrink: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
   }
   .carousel-slide img {
-    max-width: 100%;
-    width: auto;
-    height: auto;
-    max-height: 500px;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
     display: block;
     border-radius: var(--radius);
     box-shadow: var(--shadow);
