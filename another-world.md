@@ -43,7 +43,7 @@ permalink: /another-world/
   }
   .photo-carousel {
     position: relative;
-    max-width: 100%;
+    max-width: 70%;
     margin: 0 auto;
     overflow: hidden;
     border-radius: var(--radius);
@@ -56,10 +56,15 @@ permalink: /another-world/
   .carousel-slide {
     min-width: 100%;
     flex-shrink: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
   .carousel-slide img {
-    width: 100%;
+    max-width: 100%;
+    width: auto;
     height: auto;
+    max-height: 500px;
     display: block;
     border-radius: var(--radius);
     box-shadow: var(--shadow);
@@ -313,7 +318,7 @@ permalink: /another-world/
         </div>
         <script>
           let currentSlide = 0;
-          const totalSlides = 4;
+          const totalSlides = 2;
           
           function initCarousel() {
             const dotsContainer = document.getElementById('carouselDots');
