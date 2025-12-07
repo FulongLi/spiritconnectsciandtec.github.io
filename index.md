@@ -3,13 +3,50 @@ layout: default
 title: Home
 description: Copy and update human consciousness and memory to the digital world.
 ---
-
-<header class="hero">
-  <div
-    class="bg"
-    style="background-image: url('{{ '/images/general/sc.png' | relative_url }}'); background-size: cover; background-position: center; position: absolute; inset: 0; z-index: 0; opacity: 0.22;">
-  </div>
-  <div class="container" style="position: relative; z-index: 1;">
+<style>
+  .home-hero-bg {
+    background: url("{{ '/images/general/sc.png' | relative_url }}") center center/cover no-repeat;
+    position: relative;
+    min-height: 720px;
+    width: 100%;
+    padding: 8rem 0 6rem;
+    display: flex;
+    align-items: center;
+  }
+  .home-hero-bg .container {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+  }
+  .home-hero-bg::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: rgba(16, 26, 40, 0.60); /* dark overlay for readability */
+    z-index: 1;
+    pointer-events: none;
+  }
+  .home-hero-bg .badge {
+    background: rgba(24, 179, 198, 0.2);
+    border: 1px solid rgba(24, 179, 198, 0.4);
+    color: var(--brand);
+  }
+  .home-hero-bg .btn-ghost {
+    background: rgba(255, 255, 255, 0.1);
+    color: #fff;
+    border-color: rgba(255, 255, 255, 0.3);
+  }
+  .home-hero-bg .btn-ghost:hover {
+    background: rgba(255, 255, 255, 0.2);
+    color: #fff;
+  }
+  .home-hero-bg h1,
+  .home-hero-bg .lead {
+    color: #fff;
+  }
+</style>
+<div class="home-hero-bg">
+  <div class="container">
     <span class="badge">Consciousness Digitalization</span>
     <h1>Spirit Connect Science and Technology</h1>
     <p class="lead">
@@ -22,7 +59,7 @@ description: Copy and update human consciousness and memory to the digital world
       <a class="btn btn-ghost" href="{{ '/products/cabin-sc1/' | relative_url }}">Explore Products</a>
     </div>
   </div>
-</header>
+</div>
 
 <section class="section section-featured">
   <div class="container">
