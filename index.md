@@ -11,9 +11,9 @@ description: Copy and update human consciousness and memory to the digital world
   </video>
   <div style="position: absolute; inset: 0; background: rgba(16, 26, 40, 0.40); z-index: 0; pointer-events: none;"></div>
   <div class="container" style="position: relative; z-index: 1;">
-    <span class="badge">Consciousness Digitalization</span>
-    <h1>Spirit Connect Science and Technology</h1>
-    <p class="lead">
+    <span class="badge" style="color: #fff;">Consciousness Digitalization</span>
+    <h1 style="color: #fff;">Spirit Connect Science and Technology</h1>
+    <p class="lead" style="color: #fff;">
       We are pioneering the future of human consciousness preservation. Our mission is to copy and update human consciousness 
       and memory to the digital world, creating a bridge between the physical and digital realms. Experience immortality through 
       technology that captures the essence of who you are.
@@ -121,7 +121,7 @@ description: Copy and update human consciousness and memory to the digital world
     <div class="solution-content">
       <div class="solution-visual">
         <div class="visual-placeholder">
-          <video autoplay muted loop playsinline style="max-width: 60%; height: auto; border-radius: var(--radius);">
+          <video autoplay muted loop playsinline style="max-width: 80%; height: auto; border-radius: var(--radius);">
             <source src="{{ '/images/general/he.mp4' | relative_url }}" type="video/mp4">
             Your browser does not support the video tag.
           </video>
