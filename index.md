@@ -7,7 +7,7 @@ description: Copy and update human consciousness and memory to the digital world
   .hero-video-bg {
     position: relative;
     overflow: hidden;
-    min-height: 600px;
+    min-height: 800px;
     display: flex;
     align-items: center;
   }
