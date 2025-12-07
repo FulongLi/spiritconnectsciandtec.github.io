@@ -155,7 +155,7 @@ permalink: /products/3d-projector/
       </div>
       <div class="case-study-visual">
         <div class="visual-placeholder">
-          <img src="{{ '/images/anotherworld/3dp.png' | relative_url }}" alt="3D Projector" style="max-width: 100%; height: auto; border-radius: var(--radius);">
+          <img src="{{ '/images/anotherworld/3dp.png' | relative_url }}" alt="3D Projector" style="max-width: 60%; height: auto; border-radius: var(--radius);">
         </div>
       </div>
     </div>

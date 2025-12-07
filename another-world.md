@@ -77,8 +77,8 @@ permalink: /another-world/
 <div class="background-music">
   <span class="background-music-label">🎵 Background Music</span>
   <audio id="backgroundMusic" controls autoplay loop>
-    <source src="{{ '/assets/background-music.mp3' | relative_url }}" type="audio/mpeg">
-    <source src="{{ '/assets/background-music.ogg' | relative_url }}" type="audio/ogg">
+    <source src="{{ '/assets/bgm.ogg' | relative_url }}" type="audio/ogg">
+    <source src="{{ '/assets/bgm.mp3' | relative_url }}" type="audio/mpeg">
     Your browser does not support the audio element.
   </audio>
 </div>
