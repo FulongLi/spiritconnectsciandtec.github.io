@@ -41,6 +41,76 @@ permalink: /another-world/
     background: rgba(255, 255, 255, 0.2);
     color: #fff;
   }
+  .photo-carousel {
+    position: relative;
+    max-width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+    border-radius: var(--radius);
+  }
+  .carousel-track {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+    gap: 1.5rem;
+  }
+  .carousel-slide {
+    min-width: 100%;
+    flex-shrink: 0;
+  }
+  .carousel-slide img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+  }
+  .carousel-nav {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(10, 13, 46, 0.8);
+    color: #fff;
+    border: none;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 10;
+    transition: all 0.3s ease;
+  }
+  .carousel-nav:hover {
+    background: rgba(10, 13, 46, 0.95);
+    transform: translateY(-50%) scale(1.1);
+  }
+  .carousel-nav.prev {
+    left: 10px;
+  }
+  .carousel-nav.next {
+    right: 10px;
+  }
+  .carousel-dots {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-top: 1rem;
+  }
+  .carousel-dot {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: var(--border);
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  .carousel-dot.active {
+    background: var(--brand);
+    transform: scale(1.2);
+  }
   .background-music {
     position: fixed;
     bottom: 20px;
@@ -227,21 +297,66 @@ permalink: /another-world/
         </div>
         <div style="margin-top: 2rem;">
           <h3 style="text-align: center; margin-bottom: 1.5rem; color: var(--fg);">Photo Album</h3>
-          <div class="grid" style="grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem;">
-            <div style="overflow: hidden; border-radius: var(--radius); box-shadow: var(--shadow);">
-              <img src="{{ '/images/anotherworld/long_nature.png' | relative_url }}" alt="Long Nature" style="width: 100%; height: auto; display: block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+          <div class="photo-carousel">
+            <button class="carousel-nav prev" onclick="slideCarousel('prev')" aria-label="Previous">‹</button>
+            <div class="carousel-track" id="carouselTrack">
+              <div class="carousel-slide">
+                <img src="{{ '/images/anotherworld/dragons/long_nature.png' | relative_url }}" alt="Dragon Nature">
+              </div>
+              <div class="carousel-slide">
+                <img src="{{ '/images/anotherworld/dragons/long_sea.png' | relative_url }}" alt="Dragon Sea">
+              </div>
             </div>
-            <div style="overflow: hidden; border-radius: var(--radius); box-shadow: var(--shadow);">
-              <img src="{{ '/images/anotherworld/long_sea.png' | relative_url }}" alt="Long Sea" style="width: 100%; height: auto; display: block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-            </div>
-            <div style="overflow: hidden; border-radius: var(--radius); box-shadow: var(--shadow);">
-              <img src="{{ '/images/anotherworld/dragons/long_nature.png' | relative_url }}" alt="Dragon Nature" style="width: 100%; height: auto; display: block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-            </div>
-            <div style="overflow: hidden; border-radius: var(--radius); box-shadow: var(--shadow);">
-              <img src="{{ '/images/anotherworld/dragons/long_sea.png' | relative_url }}" alt="Dragon Sea" style="width: 100%; height: auto; display: block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-            </div>
+            <button class="carousel-nav next" onclick="slideCarousel('next')" aria-label="Next">›</button>
+            <div class="carousel-dots" id="carouselDots"></div>
           </div>
         </div>
+        <script>
+          let currentSlide = 0;
+          const totalSlides = 4;
+          
+          function initCarousel() {
+            const dotsContainer = document.getElementById('carouselDots');
+            for (let i = 0; i < totalSlides; i++) {
+              const dot = document.createElement('button');
+              dot.className = 'carousel-dot' + (i === 0 ? ' active' : '');
+              dot.setAttribute('onclick', `goToSlide(${i})`);
+              dot.setAttribute('aria-label', `Go to slide ${i + 1}`);
+              dotsContainer.appendChild(dot);
+            }
+            updateCarousel();
+          }
+          
+          function slideCarousel(direction) {
+            if (direction === 'next') {
+              currentSlide = (currentSlide + 1) % totalSlides;
+            } else {
+              currentSlide = (currentSlide - 1 + totalSlides) % totalSlides;
+            }
+            updateCarousel();
+          }
+          
+          function goToSlide(index) {
+            currentSlide = index;
+            updateCarousel();
+          }
+          
+          function updateCarousel() {
+            const track = document.getElementById('carouselTrack');
+            track.style.transform = `translateX(-${currentSlide * 100}%)`;
+            
+            const dots = document.querySelectorAll('.carousel-dot');
+            dots.forEach((dot, index) => {
+              dot.classList.toggle('active', index === currentSlide);
+            });
+          }
+          
+          if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', initCarousel);
+          } else {
+            initCarousel();
+          }
+        </script>
       </div>
       <div class="solution-text">
         <h2>The Experience</h2>
