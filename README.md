@@ -1,9 +1,9 @@
-# Spirit Connect – Power Labs
+# Spirit Connect Science and Technology
 
-> **AI-Assisted Power Electronics Converter Design Automation**
+> **Copy and update human consciousness and memory to the digital world**
 
-Welcome to the public website repository of **Spirit Connect – Power Labs**.  
-We accelerate power electronics development using artificial intelligence: from topology exploration to thermal analysis and control synthesis.
+Welcome to the public website repository of **Spirit Connect Science and Technology**.  
+We are pioneering the future of human consciousness preservation and digital existence.
 
 🌐 **Live site:** [https://fulongli.github.io/spiritconnectsciandtec.github.io/](https://fulongli.github.io/spiritconnectsciandtec.github.io/)
 
@@ -11,31 +11,21 @@ We accelerate power electronics development using artificial intelligence: from 
 
 ## 🚀 What We Do
 
-Spirit Connect – Power Labs builds **automation tools and workflows** that help engineers design high-performance power converters faster and with better trade-offs.
+Spirit Connect Science and Technology develops revolutionary technology for consciousness transfer and digital existence.
 
-### Our Enterprise Products
+### Our Products
 
-- **⚡ Design Automation Services** – Comprehensive AI-powered design automation that accelerates your power electronics development from concept to validation
-- **🔌 Transistor Database** – Access to an extensive database of transistor characteristics for optimal device selection in your designs
-- **🧲 Magnetic Database** – Comprehensive magnetic component database for core selection, winding design, and loss optimization
-
-### Core Capabilities
-
-- **AI-driven topology exploration** – LLC, DAB, multi-level, interleaved buck/boost, and more  
-- **Magnetics and semiconductor selection** – WBG devices, core sizing, and winding optimization  
-- **Loss & thermal modeling** – efficiency maps, safe operating areas, temperature predictions  
-- **Control synthesis** – current/voltage loops, soft-switching zones, phase-shift and TPWM  
-- **Multi-objective optimization** – efficiency vs. density vs. cost vs. EMI headroom  
-- **Validation planning** – HIL/SIL hooks, automated test scripts, and repeatable experiments
+- **🧠 Cabin SC1** – Advanced consciousness transfer system for memory upload and digital preservation
+- **📽️ 3D Projector** – Holographic projection technology for visualizing digitized consciousness
+- **🌐 Another World** – Virtual reality real-time immersive game for digitized consciousness
 
 ---
 
 ## 🛠️ Technology Stack
 
-This website is built with:
 - **Jekyll** – Static site generator
 - **GitHub Pages** – Hosting platform
-- **Modern CSS** – Custom styling with CSS variables and responsive design
+- **Modern CSS** – Custom styling with responsive design
 
 ---
 
@@ -45,10 +35,9 @@ This website is built with:
 ├── _config.yml          # Jekyll configuration
 ├── _layouts/            # Page layouts
 ├── _includes/           # Reusable components (navbar, footer, scripts)
-├── _posts/              # Blog posts
 ├── assets/              # CSS, images, and static assets
 ├── products/            # Product pages
-├── case-studies/        # Case study pages
+├── anotherworld/        # Another World related pages
 ├── company/             # Company information pages
 └── index.md             # Homepage
 ```
@@ -58,7 +47,7 @@ This website is built with:
 ## 🔗 Quick Links
 
 - [Products](/products/)
-- [Case Studies](/case-studies/)
+- [Another World](/another-world/)
 - [About Us](/company/about/)
 - [Contact](/contact/)
 
