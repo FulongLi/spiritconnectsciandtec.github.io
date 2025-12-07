@@ -43,7 +43,7 @@ permalink: /another-world/
   }
   .photo-carousel {
     position: relative;
-    width: 80%;
+    width: 100%;
     margin: 0 auto;
     overflow: hidden;
     border-radius: var(--radius);
@@ -55,13 +55,13 @@ permalink: /another-world/
   .carousel-track {
     display: flex;
     transition: transform 0.5s ease-in-out;
-    height: 80%;
+    height: 100%;
   }
   .carousel-slide {
     min-width: 80%;
     flex-shrink: 0;
-    width: 80%;
-    height: 80%;
+    width: 100%;
+    height: 100%;
     overflow: hidden;
   }
   .carousel-slide img {
