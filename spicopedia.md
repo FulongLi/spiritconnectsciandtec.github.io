@@ -30,3 +30,29 @@ permalink: /spicopedia/
   </div>
 </section>
 
+<section class="section section-featured">
+  <div class="container">
+    <h2>Key Figures</h2>
+    <div class="grid" style="margin-top: 2rem;">
+      <div class="card">
+        <h3>Stephen Cross</h3>
+        <p>
+          <strong>Stephen Cross</strong> is the father of <strong>Paul J. Cross</strong>, who serves as a Professor 
+          on the Board of Directors at Spirit Connect Science and Technology.
+        </p>
+        <p style="margin-top: 1rem;">
+          Stephen Cross is the author of <em><strong>The Next 30,000 Days of Humanity</strong></em>, a visionary 
+          work that explores the future trajectory of human civilization and consciousness. His writings have 
+          significantly influenced the philosophical and scientific foundations of consciousness transfer technology 
+          and digital existence.
+        </p>
+        <p style="margin-top: 1rem;">
+          Through his son Paul's academic work and board position, Stephen Cross's insights continue to shape 
+          the direction of Spirit Connect Science and Technology's research and development in consciousness 
+          preservation and digital immortality.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
