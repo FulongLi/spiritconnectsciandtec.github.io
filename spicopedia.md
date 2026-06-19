@@ -41,6 +41,7 @@ permalink: /spicopedia/
       <li><a href="{{ '/spicopedia/black-tide-2053/' | relative_url }}">Black Tide (2053)</a></li>
       <li><a href="{{ '/spicopedia/digital-calibration/' | relative_url }}">Digital Calibration</a></li>
       <li><a href="{{ '/spicopedia/dulce-war/' | relative_url }}">Dulce War</a></li>
+      <li><a href="{{ '/anotherworld/storylines/' | relative_url }}">Story Lines</a></li>
       <li><a href="{{ '/spicopedia/ihindia/' | relative_url }}">IHinDiA</a></li>
       <li><a href="{{ '/spicopedia/lunar-death-hypothesis/' | relative_url }}">Lunar Death Hypothesis</a></li>
       <li><a href="{{ '/spicopedia/oil-deception/' | relative_url }}">Oil Deception</a></li>

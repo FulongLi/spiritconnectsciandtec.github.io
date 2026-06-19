@@ -39,7 +39,7 @@
         <button class="drop-toggle" aria-expanded="false">灵接百科 ▾</button>
         <div class="drop-menu">
           <a href="{{ '/zh/spicopedia/' | relative_url }}">百科首页</a>
-          <a href="{{ '/zh/spicopedia/storylines/' | relative_url }}">故事线</a>
+          <a href="{{ '/zh/anotherworld/storylines/' | relative_url }}">故事线</a>
         </div>
       </div>
       <a href="{{ '/zh/contact/' | relative_url }}" class="cta">联系我们</a>
@@ -63,7 +63,13 @@
           <a href="{{ '/company/news/' | relative_url }}">News</a>
         </div>
       </div>
-      <a href="{{ '/spicopedia/' | relative_url }}">Spicopedia</a>
+      <div class="dropdown">
+        <button class="drop-toggle" aria-expanded="false">Spicopedia ▾</button>
+        <div class="drop-menu">
+          <a href="{{ '/spicopedia/' | relative_url }}">Index</a>
+          <a href="{{ '/anotherworld/storylines/' | relative_url }}">Story Lines</a>
+        </div>
+      </div>
       <a href="{{ '/contact/' | relative_url }}" class="cta">Contact</a>
       {% endif %}
     </nav>

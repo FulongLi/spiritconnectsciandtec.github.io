@@ -427,7 +427,7 @@ permalink: /zh/another-world/
       <p class="lead">
         开启数字存在之旅：联系我们，了解「另一世界」以及如何为进入这一革命性虚拟现实平台做好准备。
       </p>
-      <a href="{{ '/zh/spicopedia/storylines/' | relative_url }}" class="btn btn-primary btn-large">查看故事线</a>
+      <a href="{{ '/zh/anotherworld/storylines/' | relative_url }}" class="btn btn-primary btn-large">查看故事线</a>
     </div>
   </div>
 </section>
