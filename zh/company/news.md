@@ -3,7 +3,7 @@ layout: default
 lang: zh
 title: 新闻
 permalink: /zh/company/news/
-description: 灵接科技的最新动态与公告。
+description: 灵接幻想的最新动态与公告。
 ---
 
 <header class="hero">
@@ -12,7 +12,7 @@ description: 灵接科技的最新动态与公告。
     <span class="badge">最新动态</span>
     <h1>新闻与动态</h1>
     <p class="lead">
-      <strong>灵接科技</strong>的重要里程碑与公告。
+      <strong>灵接幻想</strong>的重要里程碑与公告。
     </p>
   </div>
 </header>
@@ -88,7 +88,7 @@ description: 灵接科技的最新动态与公告。
       <span class="small">2098</span>
       <h3>重组创立</h3>
       <p>
-        灵接科技重组创立，开启保存人类意识使命的新篇章。
+        灵接幻想重组创立，开启保存人类意识使命的新篇章。
       </p>
     </div>
 
@@ -143,7 +143,7 @@ description: 灵接科技的最新动态与公告。
       <span class="small">2050</span>
       <h3>创立</h3>
       <p>
-        灵接科技创立，开启保存人类意识与数字存在的探索之旅。
+        灵接幻想创立，开启保存人类意识与数字存在的探索之旅。
       </p>
     </div>
 

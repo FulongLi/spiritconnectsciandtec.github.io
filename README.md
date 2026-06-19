@@ -1,8 +1,8 @@
-# Spirit Connect Technology
+# Spirit Connect Fantasy
 
 > **Copy and update human consciousness and memory to the digital world**
 
-Welcome to the public website repository of **Spirit Connect Technology**.  
+Welcome to the public website repository of **Spirit Connect Fantasy**.  
 We are pioneering the future of human consciousness preservation and digital existence.
 
 🌐 **Live site:** [https://fulongli.github.io/Spirit-Connect-Fantasy/](https://fulongli.github.io/Spirit-Connect-Fantasy/)
@@ -11,7 +11,7 @@ We are pioneering the future of human consciousness preservation and digital exi
 
 ## 🚀 What We Do
 
-Spirit Connect Technology develops revolutionary technology for consciousness transfer and digital existence.
+Spirit Connect Fantasy develops revolutionary technology for consciousness transfer and digital existence.
 
 ### Our Products
 

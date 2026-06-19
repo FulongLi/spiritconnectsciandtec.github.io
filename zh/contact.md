@@ -3,7 +3,7 @@ layout: default
 lang: zh
 title: 联系我们
 permalink: /zh/contact/
-description: 与灵接科技取得联系。
+description: 与灵接幻想取得联系。
 ---
 
 <header class="hero">
@@ -37,7 +37,7 @@ description: 与灵接科技取得联系。
         <div class="card-icon">💼</div>
         <h3>领英</h3>
         <p>关注动态：</p>
-        <p><a href="https://www.linkedin.com/in/fulong-li-6bb443127" target="_blank">灵接科技</a></p>
+        <p><a href="https://www.linkedin.com/in/fulong-li-6bb443127" target="_blank">灵接幻想</a></p>
       </div>
     </div>
   </div>

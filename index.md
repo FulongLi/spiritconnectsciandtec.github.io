@@ -14,7 +14,7 @@ description: Copy and update human consciousness and memory to the digital world
   <div style="position: absolute; inset: 0; background: rgba(16, 26, 40, 0.40); z-index: 0; pointer-events: none;"></div>
   <div class="container" style="position: relative; z-index: 1;">
     <span class="badge" style="color: #5EF9FF;">Consciousness Digitalization</span>
-    <h1 style="color: #5EF9FF;">Spirit Connect Technology</h1>
+    <h1 style="color: #5EF9FF;">Spirit Connect Fantasy</h1>
     <p class="lead" style="color: #5EF9FF;">
       We are pioneering the future of human consciousness preservation. Our mission is to copy and update human consciousness 
       and memory to the digital world, creating a bridge between the physical and digital realms. Experience immortality through 
@@ -141,7 +141,7 @@ description: Copy and update human consciousness and memory to the digital world
       <div class="solution-text">
         <h2>The Future of Human Existence</h2>
         <p class="lead">
-          At Spirit Connect Technology, we believe that consciousness is not bound by physical limitations. 
+          At Spirit Connect Fantasy, we believe that consciousness is not bound by physical limitations. 
           Our revolutionary technology allows you to transcend the boundaries of time and space, preserving your essence 
           in the digital realm where you can continue to grow, learn, and exist indefinitely.
         </p>
@@ -171,7 +171,7 @@ description: Copy and update human consciousness and memory to the digital world
       <div class="card">
         <div class="card-icon">📰</div>
         <h3>News & Updates</h3>
-        <p>Stay informed about the latest milestones, announcements, and developments from Spirit Connect Technology.</p>
+        <p>Stay informed about the latest milestones, announcements, and developments from Spirit Connect Fantasy.</p>
         <a href="{{ '/company/news/' | relative_url }}" class="card-link">Read News →</a>
       </div>
     </div>

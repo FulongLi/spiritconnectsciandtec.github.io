@@ -3,7 +3,7 @@ layout: default
 lang: zh
 title: Cookie 政策
 permalink: /zh/legal/cookies/
-description: 灵接科技 Cookie 使用说明。
+description: 灵接幻想 Cookie 使用说明。
 ---
 
 <header class="hero">

@@ -3,7 +3,7 @@ layout: default
 lang: en
 title: News
 permalink: /company/news/
-description: Latest updates and announcements from Spirit Connect Technology.
+description: Latest updates and announcements from Spirit Connect Fantasy.
 ---
 
 <header class="hero">
@@ -12,7 +12,7 @@ description: Latest updates and announcements from Spirit Connect Technology.
     <span class="badge">Latest Updates</span>
     <h1>News & Updates</h1>
     <p class="lead">
-      Key milestones and announcements from <strong>Spirit Connect Technology</strong>.
+      Key milestones and announcements from <strong>Spirit Connect Fantasy</strong>.
     </p>
   </div>
 </header>
@@ -91,7 +91,7 @@ description: Latest updates and announcements from Spirit Connect Technology.
       <span class="small">2098</span>
       <h3>Re-Founded</h3>
       <p>
-        Spirit Connect Technology was re-founded, marking a new chapter in our mission to 
+        Spirit Connect Fantasy was re-founded, marking a new chapter in our mission to 
         preserve human consciousness.
       </p>
     </div>
@@ -148,7 +148,7 @@ description: Latest updates and announcements from Spirit Connect Technology.
       <span class="small">2050</span>
       <h3>Founded</h3>
       <p>
-        Spirit Connect Technology was founded, beginning our journey to pioneer consciousness 
+        Spirit Connect Fantasy was founded, beginning our journey to pioneer consciousness 
         preservation and digital existence.
       </p>
     </div>

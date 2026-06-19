@@ -23,7 +23,7 @@ permalink: /zh/spicopedia/ihindia/
     <h2>概述</h2>
     <p class="lead">
       官方层面，IHinDiA 负责认证意识接口硬件、为数字延续服务商颁发执照，
-      并审计人类意识数据的保管。灵接科技的所有矫正设备均在 IHinDiA 认证下运行。
+      并审计人类意识数据的保管。灵接幻想的所有矫正设备均在 IHinDiA 认证下运行。
     </p>
   </div>
 </section>

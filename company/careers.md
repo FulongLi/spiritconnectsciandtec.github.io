@@ -3,7 +3,7 @@ layout: default
 lang: en
 title: Careers
 permalink: /company/careers/
-description: Join the team at Spirit Connect Technology.
+description: Join the team at Spirit Connect Fantasy.
 ---
 
 <header class="hero">

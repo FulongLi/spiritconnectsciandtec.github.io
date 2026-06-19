@@ -14,7 +14,7 @@ description: 将人类意识与记忆复制并更新至数字世界。
   <div style="position: absolute; inset: 0; background: rgba(16, 26, 40, 0.40); z-index: 0; pointer-events: none;"></div>
   <div class="container" style="position: relative; z-index: 1;">
     <span class="badge" style="color: #5EF9FF;">意识数字化</span>
-    <h1 style="color: #5EF9FF;">灵接科技</h1>
+    <h1 style="color: #5EF9FF;">灵接幻想</h1>
     <p class="lead" style="color: #5EF9FF;">
       我们致力于开创人类意识保存的未来。使命是将人类意识与记忆复制并更新到数字世界，在物理与数字之间架起桥梁。
       以技术留存真实的你，体验数字意义上的延续。
@@ -137,7 +137,7 @@ description: 将人类意识与记忆复制并更新至数字世界。
       <div class="solution-text">
         <h2>人类存在的未来</h2>
         <p class="lead">
-          在灵接科技，我们相信意识不受肉体局限。革命性技术助你超越时空，在数字领域中延续本质，持续成长与学习。
+          在灵接幻想，我们相信意识不受肉体局限。革命性技术助你超越时空，在数字领域中延续本质，持续成长与学习。
         </p>
       </div>
     </div>
@@ -164,7 +164,7 @@ description: 将人类意识与记忆复制并更新至数字世界。
       <div class="card">
         <div class="card-icon">📰</div>
         <h3>新闻与动态</h3>
-        <p>了解灵接科技最新里程碑、公告与发展。</p>
+        <p>了解灵接幻想最新里程碑、公告与发展。</p>
         <a href="{{ '/zh/company/news/' | relative_url }}" class="card-link">阅读新闻 →</a>
       </div>
     </div>

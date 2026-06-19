@@ -3,7 +3,7 @@ layout: default
 lang: en
 title: Terms of Use
 permalink: /legal/terms/
-description: Terms of use for Spirit Connect Technology.
+description: Terms of use for Spirit Connect Fantasy.
 ---
 
 <header class="hero">
@@ -26,7 +26,7 @@ description: Terms of use for Spirit Connect Technology.
 
     <div class="card" style="margin-top: 1.5rem;">
       <h2>Intellectual property</h2>
-      <p>Unless stated otherwise, content on this site is © Spirit Connect Technology. 
+      <p>Unless stated otherwise, content on this site is © Spirit Connect Fantasy. 
       Do not reproduce without permission.</p>
     </div>
 

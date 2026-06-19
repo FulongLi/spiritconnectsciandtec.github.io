@@ -3,7 +3,7 @@ layout: default
 lang: zh
 title: 隐私政策
 permalink: /zh/legal/privacy/
-description: 灵接科技隐私政策。
+description: 灵接幻想隐私政策。
 ---
 
 <header class="hero">
