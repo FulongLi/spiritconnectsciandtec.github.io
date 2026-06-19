@@ -40,6 +40,7 @@ description: 灵接幻想相关概念、术语与知识百科。
       <li><a href="{{ '/zh/spicopedia/1947-roswell-ufo-crash/' | relative_url }}">1947 罗斯威尔飞碟坠毁事件</a></li>
       <li><a href="{{ '/zh/spicopedia/dulce-war/' | relative_url }}">道西战争</a></li>
       <li><a href="{{ '/zh/spicopedia/phaethon/' | relative_url }}">法厄同星</a></li>
+      <li><a href="{{ '/zh/spicopedia/storylines/' | relative_url }}">故事线</a></li>
       <li><a href="{{ '/zh/spicopedia/black-tide-2053/' | relative_url }}">黑潮（2053）</a></li>
       <li><a href="{{ '/zh/spicopedia/whale-echo/' | relative_url }}">鲸歌回声</a></li>
       <li><a href="{{ '/zh/spicopedia/ihindia/' | relative_url }}">IHinDiA</a></li>

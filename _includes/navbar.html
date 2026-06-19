@@ -35,7 +35,13 @@
           <a href="{{ '/zh/company/news/' | relative_url }}">新闻</a>
         </div>
       </div>
-      <a href="{{ '/zh/spicopedia/' | relative_url }}">灵接百科</a>
+      <div class="dropdown">
+        <button class="drop-toggle" aria-expanded="false">灵接百科 ▾</button>
+        <div class="drop-menu">
+          <a href="{{ '/zh/spicopedia/' | relative_url }}">百科首页</a>
+          <a href="{{ '/zh/spicopedia/storylines/' | relative_url }}">故事线</a>
+        </div>
+      </div>
       <a href="{{ '/zh/contact/' | relative_url }}" class="cta">联系我们</a>
       {% else %}
       <a href="{{ '/' | relative_url }}">Home</a>
