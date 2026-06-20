@@ -3,7 +3,7 @@ layout: default
 lang: zh
 title: 使用条款
 permalink: /zh/legal/terms/
-description: 灵接幻想网站使用条款。
+description: 灵接科技网站使用条款。
 ---
 
 <header class="hero">
@@ -26,7 +26,7 @@ description: 灵接幻想网站使用条款。
 
     <div class="card" style="margin-top: 1.5rem;">
       <h2>知识产权</h2>
-      <p>除另有说明外，本站内容版权归灵接幻想（Spirit Connect Fantasy）所有。未经许可请勿复制。</p>
+      <p>除另有说明外，本站内容版权归灵接科技（Spirit Connect Technology）所有。未经许可请勿复制。</p>
     </div>
 
     <div class="card" style="margin-top: 1.5rem;">

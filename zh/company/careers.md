@@ -3,7 +3,7 @@ layout: default
 lang: zh
 title: 招聘
 permalink: /zh/company/careers/
-description: 加入灵接幻想团队。
+description: 加入灵接科技团队。
 ---
 
 <header class="hero">

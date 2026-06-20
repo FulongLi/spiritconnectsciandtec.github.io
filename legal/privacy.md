@@ -3,7 +3,7 @@ layout: default
 lang: en
 title: Privacy Policy
 permalink: /legal/privacy/
-description: Privacy policy for Spirit Connect Fantasy.
+description: Privacy policy for Spirit Connect Technology.
 ---
 
 <header class="hero">

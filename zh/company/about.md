@@ -3,7 +3,7 @@ layout: default
 lang: zh
 title: 关于我们
 permalink: /zh/company/about/
-description: 了解灵接幻想与我们的使命。
+description: 了解灵接科技与我们的使命。
 ---
 
 <header class="hero">
@@ -12,7 +12,7 @@ description: 了解灵接幻想与我们的使命。
     <span class="badge">我们的故事</span>
     <h1>关于我们</h1>
     <p class="lead">
-      灵接幻想致力于开创人类意识保存与数字存在的未来，正在改变人们对生命、死亡与延续的思考方式。
+      灵接科技致力于开创人类意识保存与数字存在的未来，正在改变人们对生命、死亡与延续的思考方式。
     </p>
   </div>
 </header>
@@ -21,9 +21,9 @@ description: 了解灵接幻想与我们的使命。
   <div class="container">
     <div class="section-header">
       <span class="section-badge">我们是谁</span>
-      <h2>灵接幻想</h2>
+      <h2>灵接科技</h2>
       <p class="lead">
-        欢迎了解灵接幻想。我们相信意识不受肉体束缚，技术可以长久保存「你是谁」的本质。
+        欢迎了解灵接科技。我们相信意识不受肉体束缚，技术可以长久保存「你是谁」的本质。
       </p>
     </div>
   </div>
@@ -67,7 +67,7 @@ description: 了解灵接幻想与我们的使命。
           我们展望这样一个未来：人类意识能超越肉体限制，在记忆不褪色、体验可延续的数字领域中存在。
         </p>
         <p style="margin-top: 1.5rem; color: rgba(255,255,255,.9);">
-          在灵接幻想，我们相信死亡不是终点。借助革命性意识传输技术，你可在数字世界保存本质、记忆与意识，让「你」持续存在、学习与成长。
+          在灵接科技，我们相信死亡不是终点。借助革命性意识传输技术，你可在数字世界保存本质、记忆与意识，让「你」持续存在、学习与成长。
           创始人的一位故友曾经问过：出口真的在机器里吗？这个问题，我们一直留着。
         </p>
         <div class="case-study-actions" style="margin-top: 2rem;">

@@ -32,9 +32,9 @@ permalink: /zh/spicopedia/terasa-records/
 
 <section class="section">
   <div class="container">
-    <h2>灵接幻想的立场</h2>
+    <h2>灵接科技的立场</h2>
     <p class="lead">
-      灵接幻想的设备只连接经过认证的数字环境，不连接其他任何东西。
+      灵接科技的设备只连接经过认证的数字环境，不连接其他任何东西。
       公司不对泰拉撒假说、月球背面异常，
       或 2118 年矫正事件参与者的相关说法发表评论。
     </p>

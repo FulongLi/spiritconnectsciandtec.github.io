@@ -3,7 +3,7 @@ layout: default
 lang: zh
 title: 灵接百科
 permalink: /zh/spicopedia/
-description: 灵接幻想相关概念、术语与知识百科。
+description: 灵接科技相关概念、术语与知识百科。
 ---
 
 <header class="hero" style="min-height: 720px; position: relative; overflow: hidden;">
@@ -16,7 +16,7 @@ description: 灵接幻想相关概念、术语与知识百科。
     <span class="badge" style="color: #5EF9FF;">知识库</span>
     <h1 style="color: #5EF9FF;">灵接百科</h1>
     <p class="lead" style="color: #5EF9FF;">
-      围绕<strong>灵接幻想</strong>的概念、术语与知识的综合性百科。
+      围绕<strong>灵接科技</strong>的概念、术语与知识的综合性百科。
     </p>
   </div>
 </header>

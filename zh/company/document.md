@@ -12,7 +12,7 @@ permalink: /zh/company/document/
     <span class="badge">档案</span>
     <h1>文档与档案</h1>
     <p class="lead">
-      <strong>灵接幻想</strong>的奠基概念书系——同一份连续记录，逐卷公开。
+      <strong>灵接科技</strong>的奠基概念书系——同一份连续记录，逐卷公开。
       部分卷册已出版，其余仍在封存审查中。
     </p>
   </div>
@@ -50,7 +50,7 @@ permalink: /zh/company/document/
       <div class="card">
         <span class="small">档案 0 · 创始人年代 · 筹备中</span>
         <h3>血色游轮</h3>
-        <p>2047–2053。在灵接幻想存在之前，年轻的伊莱亚斯·斯皮尔登上一艘载满旧世界高知人群的游轮——
+        <p>2047–2053。在灵接科技存在之前，年轻的伊莱亚斯·斯皮尔登上一艘载满旧世界高知人群的游轮——
         亲眼看着文明一层层剥落。我们创始人的问题从何而来，公司为何一出生就背负着它。</p>
       </div>
       <div class="card">

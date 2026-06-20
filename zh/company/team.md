@@ -3,7 +3,7 @@ layout: default
 lang: zh
 title: 团队
 permalink: /zh/company/team/
-description: 认识灵接幻想背后的团队。
+description: 认识灵接科技背后的团队。
 ---
 
 <header class="hero">
@@ -20,13 +20,13 @@ description: 认识灵接幻想背后的团队。
 <section class="section">
   <div class="container">
     <h2>董事会</h2>
-    <p class="lead">董事会为灵接幻想提供战略指引与监督。</p>
+    <p class="lead">董事会为灵接科技提供战略指引与监督。</p>
     <div class="grid" style="margin-top: 2rem;">
       <div class="card" style="text-align:center;">
         <img src="{{ '/images/team/long_spiricon.jpg' | relative_url }}" alt="Elias Spire" style="width:150px;height:150px;border-radius:50%;object-fit:cover;margin-bottom:1.5rem;border:3px solid var(--brand);">
         <h3>Elias Spire</h3>
         <p><strong>创始人</strong></p>
-        <p>已退休。灵接幻想创始成员。其现居地不属于公开记录范畴。</p>
+        <p>已退休。灵接科技创始成员。其现居地不属于公开记录范畴。</p>
       </div>
       <div class="card" style="text-align:center;">
         <img src="{{ '/images/team/na_li.jpg' | relative_url }}" alt="Na Li" style="width:150px;height:150px;border-radius:50%;object-fit:cover;margin-bottom:1.5rem;border:3px solid var(--brand);">
@@ -59,7 +59,7 @@ description: 认识灵接幻想背后的团队。
         <img src="{{ '/images/team/john_musk.jpg' | relative_url }}" alt="John Musk" style="width:150px;height:150px;border-radius:50%;object-fit:cover;margin-bottom:1.5rem;border:3px solid var(--brand);">
         <h3>John Musk</h3>
         <p><strong>首席执行官</strong></p>
-        <p>引领灵接幻想的愿景与战略。</p>
+        <p>引领灵接科技的愿景与战略。</p>
       </div>
       <div class="card" style="text-align:center;">
         <img src="{{ '/images/team/morph_lune.jpg' | relative_url }}" alt="Adrian Lune" style="width:150px;height:150px;border-radius:50%;object-fit:cover;margin-bottom:1.5rem;border:3px solid var(--brand);">

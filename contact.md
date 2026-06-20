@@ -3,7 +3,7 @@ layout: default
 lang: en
 title: Contact Us
 permalink: /contact/
-description: Get in touch with Spirit Connect Fantasy.
+description: Get in touch with Spirit Connect Technology.
 ---
 
 <header class="hero">
@@ -38,7 +38,7 @@ description: Get in touch with Spirit Connect Fantasy.
         <div class="card-icon">💼</div>
         <h3>LinkedIn</h3>
         <p>Connect and follow updates:</p>
-        <p><a href="https://www.linkedin.com/in/fulong-li-6bb443127" target="_blank">Spirit Connect Fantasy</a></p>
+        <p><a href="https://www.linkedin.com/in/fulong-li-6bb443127" target="_blank">Spirit Connect Technology</a></p>
       </div>
     </div>
   </div>

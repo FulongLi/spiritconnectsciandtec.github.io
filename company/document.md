@@ -12,7 +12,7 @@ permalink: /company/document/
     <span class="badge">Archives</span>
     <h1>Document & Archives</h1>
     <p class="lead">
-      The foundational concept books of <strong>Spirit Connect Fantasy</strong> — a single continuous
+      The foundational concept books of <strong>Spirit Connect Technology</strong> — a single continuous
       record, released volume by volume. Some volumes are published. Others remain sealed pending review.
     </p>
   </div>

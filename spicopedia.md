@@ -2,7 +2,7 @@
 layout: default
 lang: en
 title: Spicopedia
-description: Encyclopedia of Spirit Connect Fantasy concepts, terms, and knowledge.
+description: Encyclopedia of Spirit Connect Technology concepts, terms, and knowledge.
 permalink: /spicopedia/
 ---
 
@@ -16,7 +16,7 @@ permalink: /spicopedia/
     <span class="badge" style="color: #5EF9FF;">Knowledge Base</span>
     <h1 style="color: #5EF9FF;">Spicopedia</h1>
     <p class="lead" style="color: #5EF9FF;">
-      Comprehensive encyclopedia of concepts, terms, and knowledge related to <strong>Spirit Connect Fantasy</strong>.
+      Comprehensive encyclopedia of concepts, terms, and knowledge related to <strong>Spirit Connect Technology</strong>.
     </p>
   </div>
 </header>
